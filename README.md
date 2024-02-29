@@ -1,4 +1,5 @@
 # Projeto prático Git Flow
+Versão: 1.0
 
 ## Contatos
 Email: luigi.aconsentino@gmail.com
